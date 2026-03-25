@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+  <title id="title">Certificate placeholder</title>
+  <desc id="desc">Replace with a certificate preview image if available.</desc>
+  <defs>
+    <linearGradient id="card" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fef5e7" />
+      <stop offset="100%" stop-color="#eef6ff" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="620" rx="44" fill="url(#card)" />
+  <rect x="56" y="56" width="788" height="508" rx="28" fill="#ffffff" stroke="#d8e4f2" stroke-width="8" />
+  <circle cx="450" cy="176" r="46" fill="#ffb457" />
+  <path d="M428 218h44l-10 52-12-14-12 14Z" fill="#c95e1b" />
+  <text x="450" y="330" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" fill="#152033">
+    Certificate Preview
+  </text>
+  <text x="450" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#4d607a">
+    Replace image and PDF in /public/assets/certificates
+  </text>
+</svg>

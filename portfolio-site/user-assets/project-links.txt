@@ -1,0 +1,17 @@
+Use this format and fill what you have:
+
+Project Name:Project Management
+GitHub:https://github.com/Prashant-Best/project-management
+Live:https://project-management-iota-three.vercel.app/
+Description:The Project Management System is a software application designed to streamline the planning, execution, and monitoring of projects. It enables teams to efficiently manage tasks, resources, timelines, and communication within a centralized platform.
+
+The system allows users to create and organize projects, assign tasks to team members, set deadlines, and track progress in real time. It provides features such as task prioritization, status updates, and performance tracking to ensure projects are completed within scope and on schedule.
+
+Additionally, the platform includes reporting and analytics tools to evaluate productivity, identify bottlenecks, and improve decision-making. Role-based access control ensures secure collaboration among team members.
+
+Overall, the system enhances productivity, transparency, and coordination, making project execution more efficient and structured.
+
+Project Name:
+GitHub:
+Live:
+Description:
